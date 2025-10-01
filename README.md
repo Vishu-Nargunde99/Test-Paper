@@ -83,3 +83,11 @@ Docker Hub.
 
 ![project screenshot](/images/images.PNG)
 
+Q18. (6 marks)
+Create a new repository on GitHub where the default branch should be main . On
+your local machine, set up a repository with the same default branch ( main ), add
+multiple files, and push them to the GitHub repository. Ensure the branch
+alignment between local and remote is correct.
+
+![task screenshot](/images/remote-repo.PNG)
+![task screenshot](/images/local-repo.PNG)
